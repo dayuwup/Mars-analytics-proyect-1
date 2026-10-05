@@ -1,0 +1,6 @@
+{
+  "name": "Nōva Analytics — Inteligencia & Decisiones SaaS",
+  "description": "Plataforma de analítica interactiva y apoyo a la toma de decisiones para Nōva SaaS: análisis de suscripciones, eventos de uso, simulación y optimización estratégica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
